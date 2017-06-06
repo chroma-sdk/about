@@ -10,6 +10,6 @@ This is an organization for libraries and samples that meet the following criter
 
 Any library or samples under this organisation should be considered as "recommended by Razer".
 
-## Contributing
+## Contribute
 
 All repositories under this organisation follow the recommended [GitHub Flow](https://guides.github.com/introduction/flow/).
